@@ -20,7 +20,7 @@
 [download-image]: https://img.shields.io/npm/dm/egg-kafka-js.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-kafka-js
 
-> 近期不断完善
+> 近期不断完善, 目前仅支持 kafka Producer.
 
 <!--
 Description here.
