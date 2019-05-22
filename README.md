@@ -9,7 +9,7 @@
 
 [npm-image]: https://img.shields.io/npm/v/egg-nodekafka.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-nodekafka
-[travis-image]: https://img.shields.io/travis/eggjs/egg-nodekafka.svg?style=flat-square
+[travis-image]: https://travis-ci.org/LuoShiXi/egg-nodekafka.svg?branch=master
 [travis-url]: https://travis-ci.org/eggjs/egg-nodekafka
 [codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-nodekafka.svg?style=flat-square
 [codecov-url]: https://codecov.io/github/eggjs/egg-nodekafka?branch=master
