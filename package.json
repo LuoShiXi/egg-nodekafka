@@ -1,6 +1,6 @@
 {
   "name": "egg-nodekafka",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kafka for egg",
   "eggPlugin": {
     "name": "kafka"
