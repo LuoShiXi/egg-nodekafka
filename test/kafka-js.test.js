@@ -14,10 +14,9 @@ describe('test/kafka-js.test.js', () => {
   after(() => app.close());
   afterEach(mock.restore);
 
-  it('should GET /', () => {
-    return app.httpRequest()
+  it('should GET /', async () => {
+    const res = await app.httpRequest()
       .get('/')
-      .expect('hi, kafka')
       .expect(200);
   });
 });

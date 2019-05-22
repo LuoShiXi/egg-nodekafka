@@ -20,6 +20,8 @@
 [download-image]: https://img.shields.io/npm/dm/egg-kafka-js.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-kafka-js
 
+> 近期不断完善
+
 <!--
 Description here.
 -->
@@ -44,7 +46,12 @@ exports.kafka = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.kafkaJs = {
+exports.kafka = {
+  client: {
+    host: '127.0.0.1:9092, 127.0.0.1:9093',
+  },
+  agent: true,
+  app: true,
 };
 ```
 

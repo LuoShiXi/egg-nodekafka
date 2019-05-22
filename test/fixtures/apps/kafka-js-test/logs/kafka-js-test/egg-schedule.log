@@ -1,0 +1,6 @@
+2019-05-22 14:55:14,448 INFO 32657 [egg-schedule]: register schedule /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-22 14:55:14,448 INFO 32657 [egg-schedule]: register schedule /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-22 14:55:14,448 INFO 32657 [egg-schedule]: register schedule /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-22 14:55:14,563 INFO 32657 [Timer] /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48885440ms at 2019-05-23 04:30:00.003
+2019-05-22 14:55:14,563 INFO 32657 [Timer] /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 32685437ms at 2019-05-23 00:00:00.000
+2019-05-22 14:55:14,564 INFO 32657 [Timer] /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 32686436ms at 2019-05-23 00:00:01.000

@@ -1,0 +1,17 @@
+2019-05-22 14:55:14,439 INFO 32657 [egg:logger] init all loggers with options: {"dir":"/home/luoxi/work/luoxigit/egg-kafka-js/test/fixtures/apps/kafka-js-test/logs/kafka-js-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"kafka-js-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2019-05-22 14:55:14,449 INFO 32657 [egg-multipart] stream mode enable
+2019-05-22 14:55:14,449 INFO 32657 [egg-kafka] connecting 172.16.19.166:9092
+2019-05-22 14:55:14,512 INFO 32657 [egg-static] starting static serve /public/ -> /home/luoxi/work/luoxigit/egg-kafka-js/test/fixtures/apps/kafka-js-test/app/public
+2019-05-22 14:55:14,517 INFO 32657 [egg-security] use csrf middleware
+2019-05-22 14:55:14,518 INFO 32657 [egg-security] use methodnoallow middleware
+2019-05-22 14:55:14,518 INFO 32657 [egg-security] use noopen middleware
+2019-05-22 14:55:14,519 INFO 32657 [egg-security] use nosniff middleware
+2019-05-22 14:55:14,519 INFO 32657 [egg-security] use xssProtection middleware
+2019-05-22 14:55:14,519 INFO 32657 [egg-security] use xframe middleware
+2019-05-22 14:55:14,520 INFO 32657 [egg-security] use dta middleware
+2019-05-22 14:55:14,520 INFO 32657 [egg-security] compose 7 middlewares into one security middleware
+2019-05-22 14:55:14,543 INFO 32657 [egg:core] dump config after load, 4ms
+2019-05-22 14:55:14,555 INFO 32657 [egg-watcher:application] watcher start success
+2019-05-22 14:55:14,559 INFO 32657 [egg:core] dump config after ready, 4ms
+2019-05-22 14:55:14,603 INFO 32657 connection kafka server success
+2019-05-22 14:55:14,672 INFO 32657 { topic1: { '0': 56 } } '-------------------------'
