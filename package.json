@@ -49,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-kafka-js.git"
+    "url": "git+https://github.com/LuoShiXi/egg-nodekafka.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/LuoShiXi/egg-nodekafka/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-kafka-js#readme",
+  "homepage": "https://github.com/LuoShiXi/egg-nodekafka#readme",
   "author": "RocyLuo",
   "license": "MIT"
 }
