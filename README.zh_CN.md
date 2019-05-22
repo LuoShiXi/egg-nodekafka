@@ -12,8 +12,8 @@
 [travis-image]: https://travis-ci.org/LuoShiXi/egg-nodekafka.svg?branch=master
 [travis-url]: https://travis-ci.org/eggjs/egg-nodekafka
 [codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-nodekafka.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-nodekafka?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-nodekafka.svg?style=flat-square
+[codecov-url]: https://codecov.io/gh/LuoShiXi/egg-nodekafka
+[david-image]: https://img.shields.io/david/luoshixi/egg-nodekafka.svg?style=flat-square
 [david-url]: https://david-dm.org/eggjs/egg-nodekafka
 [snyk-image]: https://snyk.io/test/npm/egg-nodekafka/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-nodekafka
