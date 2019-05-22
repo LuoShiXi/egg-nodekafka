@@ -2,11 +2,11 @@
 
 const mock = require('egg-mock');
 
-describe('test/eggplugin.test.js', () => {
+describe('test/kafka-js.test.js', () => {
   let app;
   before(() => {
     app = mock.app({
-      baseDir: 'apps/eggplugin-test',
+      baseDir: 'apps/kafka-js-test',
     });
     return app.ready();
   });
@@ -17,7 +17,7 @@ describe('test/eggplugin.test.js', () => {
   it('should GET /', () => {
     return app.httpRequest()
       .get('/')
-      .expect('hi, eggplugin')
+      .expect('hi, kafkaJs')
       .expect(200);
   });
 });
