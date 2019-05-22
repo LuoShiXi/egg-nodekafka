@@ -1,5 +1,5 @@
-2019-05-22 18:32:22,115 INFO 13934 [egg:logger] init all loggers with options: {"dir":"/home/luoxi/work/luoxigit/egg-kafka-js/test/fixtures/apps/nodekafka-test/logs/nodekafka-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"nodekafka-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
-2019-05-22 18:32:22,118 INFO 13934 [egg-kafka] connecting localhost:9092
-2019-05-22 18:32:22,125 INFO 13934 [egg:core] dump config after load, 2ms
-2019-05-22 18:32:22,147 INFO 13934 [egg-watcher:agent] watcher start success
-2019-05-22 18:32:22,150 INFO 13934 [egg:core] dump config after ready, 2ms
+2019-05-22 18:42:46,542 INFO 14427 [egg:logger] init all loggers with options: {"dir":"/home/luoxi/work/luoxigit/egg-kafka-js/test/fixtures/apps/nodekafka-test/logs/nodekafka-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"nodekafka-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2019-05-22 18:42:46,549 INFO 14427 [egg-kafka] connecting localhost:9092
+2019-05-22 18:42:46,558 INFO 14427 [egg:core] dump config after load, 4ms
+2019-05-22 18:42:46,585 INFO 14427 [egg-watcher:agent] watcher start success
+2019-05-22 18:42:46,603 INFO 14427 [egg:core] dump config after ready, 3ms
