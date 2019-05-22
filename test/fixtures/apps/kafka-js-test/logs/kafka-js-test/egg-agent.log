@@ -1,5 +1,0 @@
-2019-05-22 14:55:14,236 INFO 32657 [egg:logger] init all loggers with options: {"dir":"/home/luoxi/work/luoxigit/egg-kafka-js/test/fixtures/apps/kafka-js-test/logs/kafka-js-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"kafka-js-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
-2019-05-22 14:55:14,239 INFO 32657 [egg-kafka] connecting 172.16.19.166:9092
-2019-05-22 14:55:14,250 INFO 32657 [egg:core] dump config after load, 3ms
-2019-05-22 14:55:14,285 INFO 32657 [egg-watcher:agent] watcher start success
-2019-05-22 14:55:14,296 INFO 32657 [egg:core] dump config after ready, 5ms
