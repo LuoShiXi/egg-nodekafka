@@ -1,0 +1,6 @@
+2019-05-21 16:00:45,175 INFO 16897 [egg-schedule]: register schedule /home/luoxi/test/eggplugin/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-05-21 16:00:45,175 INFO 16897 [egg-schedule]: register schedule /home/luoxi/test/eggplugin/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-05-21 16:00:45,175 INFO 16897 [egg-schedule]: register schedule /home/luoxi/test/eggplugin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-05-21 16:00:45,236 INFO 16897 [Timer] /home/luoxi/test/eggplugin/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44954766ms at 2019-05-22 04:30:00.002
+2019-05-21 16:00:45,236 INFO 16897 [Timer] /home/luoxi/test/eggplugin/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28754764ms at 2019-05-22 00:00:00.000
+2019-05-21 16:00:45,237 INFO 16897 [Timer] /home/luoxi/test/eggplugin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28755764ms at 2019-05-22 00:00:01.001

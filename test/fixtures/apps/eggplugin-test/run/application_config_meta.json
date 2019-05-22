@@ -1,0 +1,236 @@
+{
+  "keys": "/home/luoxi/test/eggplugin/test/fixtures/apps/eggplugin-test/config/config.default.js",
+  "session": {
+    "maxAge": "/home/luoxi/test/eggplugin/node_modules/egg-session/config/config.default.js",
+    "key": "/home/luoxi/test/eggplugin/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/luoxi/test/eggplugin/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/luoxi/test/eggplugin/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "value": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "value": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "value": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/home/luoxi/test/eggplugin/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/luoxi/test/eggplugin/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/luoxi/test/eggplugin/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/luoxi/test/eggplugin/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/luoxi/test/eggplugin/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/luoxi/test/eggplugin/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/luoxi/test/eggplugin/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/luoxi/test/eggplugin/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/luoxi/test/eggplugin/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/luoxi/test/eggplugin/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/luoxi/test/eggplugin/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/home/luoxi/test/eggplugin/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/luoxi/test/eggplugin/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/luoxi/test/eggplugin/node_modules/egg-watcher/config/config.unittest.js",
+    "eventSources": {
+      "default": "/home/luoxi/test/eggplugin/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/luoxi/test/eggplugin/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/luoxi/test/eggplugin/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/luoxi/test/eggplugin/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/home/luoxi/test/eggplugin/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/home/luoxi/test/eggplugin/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/luoxi/test/eggplugin/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/luoxi/test/eggplugin/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/luoxi/test/eggplugin/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/luoxi/test/eggplugin/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/luoxi/test/eggplugin/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/luoxi/test/eggplugin/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/luoxi/test/eggplugin/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/home/luoxi/test/eggplugin/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/luoxi/test/eggplugin/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/home/luoxi/test/eggplugin/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/luoxi/test/eggplugin/node_modules/egg-view/config/config.default.js",
+    "mapping": "/home/luoxi/test/eggplugin/node_modules/egg-view/config/config.default.js"
+  },
+  "eggplugin": "/home/luoxi/test/eggplugin/config/config.default.js",
+  "env": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "name": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "proxy": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "version": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "HOME": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "rundir": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "notFound": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "encoding": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "strict": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "depth": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "encoding": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "env": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "level": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.unittest.js",
+    "disableConsoleAfterReady": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "buffer": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.unittest.js",
+    "appLogName": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "coreLogger": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "logging": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "port": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+      "hostname": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/luoxi/test/eggplugin/node_modules/egg/config/config.default.js"
+}

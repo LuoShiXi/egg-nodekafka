@@ -1,0 +1,4 @@
+2019-05-21 16:00:45,100 INFO 16897 [egg:logger] init all loggers with options: {"dir":"/home/luoxi/test/eggplugin/test/fixtures/apps/eggplugin-test/logs/eggplugin-test","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"eggplugin-test-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2019-05-21 16:00:45,106 INFO 16897 [egg:core] dump config after load, 2ms
+2019-05-21 16:00:45,128 INFO 16897 [egg-watcher:agent] watcher start success
+2019-05-21 16:00:45,131 INFO 16897 [egg:core] dump config after ready, 2ms
