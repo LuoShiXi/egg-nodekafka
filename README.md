@@ -34,7 +34,7 @@ $ npm i egg-kafka-js --save
 
 ```js
 // {app_root}/config/plugin.js
-exports.kafkaJs = {
+exports.kafka = {
   enable: true,
   package: 'egg-kafka-js',
 };

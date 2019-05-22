@@ -47,7 +47,7 @@ egg-kafka-js 版本 | egg 1.x
 
 ```js
 // config/plugin.js
-exports.kafkaJs = {
+exports.kafka = {
   enable: true,
   package: 'egg-kafka-js',
 };

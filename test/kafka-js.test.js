@@ -17,7 +17,7 @@ describe('test/kafka-js.test.js', () => {
   it('should GET /', () => {
     return app.httpRequest()
       .get('/')
-      .expect('hi, kafkaJs')
+      .expect('hi, kafka')
       .expect(200);
   });
 });
