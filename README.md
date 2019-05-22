@@ -58,7 +58,7 @@ exports.kafka = {
 see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Example
-```
+```js
 'use strict';
 
 const Controller = require('egg').Controller;
