@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * egg-kafka-js default config
+ * egg-nodekafka default config
  * @member Config#kafkaJs
  * @property {String} SOME_KEY - some description
  */

@@ -1,4 +1,4 @@
-# egg-kafka-js
+# egg-nodekafka
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -7,18 +7,18 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-kafka-js.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-kafka-js
-[travis-image]: https://img.shields.io/travis/eggjs/egg-kafka-js.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-kafka-js
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-kafka-js.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-kafka-js?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-kafka-js.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-kafka-js
-[snyk-image]: https://snyk.io/test/npm/egg-kafka-js/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/egg-kafka-js
-[download-image]: https://img.shields.io/npm/dm/egg-kafka-js.svg?style=flat-square
-[download-url]: https://npmjs.org/package/egg-kafka-js
+[npm-image]: https://img.shields.io/npm/v/egg-nodekafka.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/egg-nodekafka
+[travis-image]: https://img.shields.io/travis/eggjs/egg-nodekafka.svg?style=flat-square
+[travis-url]: https://travis-ci.org/eggjs/egg-nodekafka
+[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-nodekafka.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/eggjs/egg-nodekafka?branch=master
+[david-image]: https://img.shields.io/david/eggjs/egg-nodekafka.svg?style=flat-square
+[david-url]: https://david-dm.org/eggjs/egg-nodekafka
+[snyk-image]: https://snyk.io/test/npm/egg-nodekafka/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/egg-nodekafka
+[download-image]: https://img.shields.io/npm/dm/egg-nodekafka.svg?style=flat-square
+[download-url]: https://npmjs.org/package/egg-nodekafka
 
 <!--
 Description here.
@@ -28,7 +28,7 @@ Description here.
 
 ### 依赖的 egg 版本
 
-egg-kafka-js 版本 | egg 2.x
+egg-nodekafka 版本 | egg 2.x
 --- | ---
 2.16 | 😁
 0.x | ❌
@@ -49,7 +49,7 @@ egg-kafka-js 版本 | egg 2.x
 // config/plugin.js
 exports.kafka = {
   enable: true,
-  package: 'egg-kafka-js',
+  package: 'egg-nodekafka',
 };
 ```
 
