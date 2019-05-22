@@ -92,7 +92,7 @@ module.exports = HomeController;
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/LuoShiXi/egg-nodekafka/issues).
 
 ## License
 
