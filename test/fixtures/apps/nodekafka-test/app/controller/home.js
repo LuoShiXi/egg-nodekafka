@@ -16,12 +16,11 @@ class HomeController extends Controller {
       }]);
     } catch (error) {
       app.coreLogger.error(error);
-      ctx.status = 201;
-      return;
     }
     logger.info(result, '-------------------------');
     ctx.status = 200;
-    ctx.body = { result: 'success', value: JSON.stringify(result) };
+    ctx.body = { result: 'success' };
+    return;
   }
 }
 

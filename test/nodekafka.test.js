@@ -14,8 +14,8 @@ describe('test/nodekafka.test.js', () => {
   after(() => app.close());
   afterEach(mock.restore);
 
-  it('should GET /', async () => {
-    await app.httpRequest()
+  it('should GET /', () => {
+    return app.httpRequest()
       .get('/')
       .expect(200);
   });
