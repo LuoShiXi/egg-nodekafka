@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1558520625058,
+    "end": 1558520625280,
+    "duration": 222,
+    "pid": 13027,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1558520625060,
+    "end": 1558520625066,
+    "duration": 6,
+    "pid": 13027,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1558520625066,
+    "end": 1558520625082,
+    "duration": 16,
+    "pid": 13027,
+    "index": 2
+  },
+  {
+    "name": "Require(0) config/config.default.js",
+    "start": 1558520625066,
+    "end": 1558520625071,
+    "duration": 5,
+    "pid": 13027,
+    "index": 3
+  },
+  {
+    "name": "Require(1) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-session/config/config.default.js",
+    "start": 1558520625072,
+    "end": 1558520625072,
+    "duration": 0,
+    "pid": 13027,
+    "index": 4
+  },
+  {
+    "name": "Require(2) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-security/config/config.default.js",
+    "start": 1558520625072,
+    "end": 1558520625073,
+    "duration": 1,
+    "pid": 13027,
+    "index": 5
+  },
+  {
+    "name": "Require(3) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1558520625073,
+    "end": 1558520625074,
+    "duration": 1,
+    "pid": 13027,
+    "index": 6
+  },
+  {
+    "name": "Require(4) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-onerror/config/config.default.js",
+    "start": 1558520625074,
+    "end": 1558520625074,
+    "duration": 0,
+    "pid": 13027,
+    "index": 7
+  },
+  {
+    "name": "Require(5) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-i18n/config/config.default.js",
+    "start": 1558520625074,
+    "end": 1558520625075,
+    "duration": 1,
+    "pid": 13027,
+    "index": 8
+  },
+  {
+    "name": "Require(6) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-watcher/config/config.default.js",
+    "start": 1558520625075,
+    "end": 1558520625075,
+    "duration": 0,
+    "pid": 13027,
+    "index": 9
+  },
+  {
+    "name": "Require(7) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-schedule/config/config.default.js",
+    "start": 1558520625076,
+    "end": 1558520625076,
+    "duration": 0,
+    "pid": 13027,
+    "index": 10
+  },
+  {
+    "name": "Require(8) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-multipart/config/config.default.js",
+    "start": 1558520625076,
+    "end": 1558520625076,
+    "duration": 0,
+    "pid": 13027,
+    "index": 11
+  },
+  {
+    "name": "Require(9) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1558520625077,
+    "end": 1558520625077,
+    "duration": 0,
+    "pid": 13027,
+    "index": 12
+  },
+  {
+    "name": "Require(10) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-static/config/config.default.js",
+    "start": 1558520625077,
+    "end": 1558520625078,
+    "duration": 1,
+    "pid": 13027,
+    "index": 13
+  },
+  {
+    "name": "Require(11) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-view/config/config.default.js",
+    "start": 1558520625078,
+    "end": 1558520625078,
+    "duration": 0,
+    "pid": 13027,
+    "index": 14
+  },
+  {
+    "name": "Require(12) /home/luoxi/work/luoxigit/egg-kafka-js/config/config.default.js",
+    "start": 1558520625078,
+    "end": 1558520625079,
+    "duration": 1,
+    "pid": 13027,
+    "index": 15
+  },
+  {
+    "name": "Require(13) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg/config/config.default.js",
+    "start": 1558520625079,
+    "end": 1558520625079,
+    "duration": 0,
+    "pid": 13027,
+    "index": 16
+  },
+  {
+    "name": "Require(14) config/config.default.js",
+    "start": 1558520625080,
+    "end": 1558520625080,
+    "duration": 0,
+    "pid": 13027,
+    "index": 17
+  },
+  {
+    "name": "Require(15) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-watcher/config/config.unittest.js",
+    "start": 1558520625081,
+    "end": 1558520625081,
+    "duration": 0,
+    "pid": 13027,
+    "index": 18
+  },
+  {
+    "name": "Require(16) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg/config/config.unittest.js",
+    "start": 1558520625081,
+    "end": 1558520625082,
+    "duration": 1,
+    "pid": 13027,
+    "index": 19
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1558520625083,
+    "end": 1558520625116,
+    "duration": 33,
+    "pid": 13027,
+    "index": 20
+  },
+  {
+    "name": "Require(17) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-security/app/extend/agent.js",
+    "start": 1558520625083,
+    "end": 1558520625084,
+    "duration": 1,
+    "pid": 13027,
+    "index": 21
+  },
+  {
+    "name": "Require(18) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-schedule/app/extend/agent.js",
+    "start": 1558520625084,
+    "end": 1558520625112,
+    "duration": 28,
+    "pid": 13027,
+    "index": 22
+  },
+  {
+    "name": "Require(19) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/app/extend/agent.js",
+    "start": 1558520625112,
+    "end": 1558520625114,
+    "duration": 2,
+    "pid": 13027,
+    "index": 23
+  },
+  {
+    "name": "Require(20) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-mock/app/extend/agent.js",
+    "start": 1558520625115,
+    "end": 1558520625115,
+    "duration": 0,
+    "pid": 13027,
+    "index": 24
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1558520625116,
+    "end": 1558520625141,
+    "duration": 25,
+    "pid": 13027,
+    "index": 25
+  },
+  {
+    "name": "Require(21) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-security/app/extend/context.js",
+    "start": 1558520625116,
+    "end": 1558520625120,
+    "duration": 4,
+    "pid": 13027,
+    "index": 26
+  },
+  {
+    "name": "Require(22) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1558520625120,
+    "end": 1558520625121,
+    "duration": 1,
+    "pid": 13027,
+    "index": 27
+  },
+  {
+    "name": "Require(23) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1558520625121,
+    "end": 1558520625121,
+    "duration": 0,
+    "pid": 13027,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1558520625121,
+    "end": 1558520625139,
+    "duration": 18,
+    "pid": 13027,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-view/app/extend/context.js",
+    "start": 1558520625139,
+    "end": 1558520625140,
+    "duration": 1,
+    "pid": 13027,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg/app/extend/context.js",
+    "start": 1558520625140,
+    "end": 1558520625140,
+    "duration": 0,
+    "pid": 13027,
+    "index": 31
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1558520625141,
+    "end": 1558520625247,
+    "duration": 106,
+    "pid": 13027,
+    "index": 32
+  },
+  {
+    "name": "Require(27) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-security/agent.js",
+    "start": 1558520625141,
+    "end": 1558520625141,
+    "duration": 0,
+    "pid": 13027,
+    "index": 33
+  },
+  {
+    "name": "Require(28) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-onerror/agent.js",
+    "start": 1558520625141,
+    "end": 1558520625141,
+    "duration": 0,
+    "pid": 13027,
+    "index": 34
+  },
+  {
+    "name": "Require(29) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-watcher/agent.js",
+    "start": 1558520625141,
+    "end": 1558520625142,
+    "duration": 1,
+    "pid": 13027,
+    "index": 35
+  },
+  {
+    "name": "Require(30) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-schedule/agent.js",
+    "start": 1558520625142,
+    "end": 1558520625142,
+    "duration": 0,
+    "pid": 13027,
+    "index": 36
+  },
+  {
+    "name": "Require(31) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-logrotator/agent.js",
+    "start": 1558520625143,
+    "end": 1558520625143,
+    "duration": 0,
+    "pid": 13027,
+    "index": 37
+  },
+  {
+    "name": "Require(32) /home/luoxi/work/luoxigit/egg-kafka-js/agent.js",
+    "start": 1558520625143,
+    "end": 1558520625246,
+    "duration": 103,
+    "pid": 13027,
+    "index": 38
+  },
+  {
+    "name": "Require(33) /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg/agent.js",
+    "start": 1558520625246,
+    "end": 1558520625246,
+    "duration": 0,
+    "pid": 13027,
+    "index": 39
+  },
+  {
+    "name": "Before Start in /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-watcher/lib/init.js:15:14",
+    "start": 1558520625252,
+    "end": 1558520625280,
+    "duration": 28,
+    "pid": 13027,
+    "index": 40
+  },
+  {
+    "name": "Before Start in /home/luoxi/work/luoxigit/egg-kafka-js/node_modules/egg-schedule/agent.js:12:9",
+    "start": 1558520625253,
+    "end": 1558520625276,
+    "duration": 23,
+    "pid": 13027,
+    "index": 41
+  }
+]

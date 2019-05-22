@@ -13,7 +13,7 @@ class HomeController extends Controller {
         topic: 'topic1',
         messages: 'test' + new Date().toISOString(),
         partition: 0,
-      }]); 
+      }]);
     } catch (error) {
       app.coreLogger.error(error);
       ctx.status = 201;

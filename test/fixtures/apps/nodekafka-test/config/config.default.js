@@ -8,4 +8,4 @@ exports.kafka = {
   },
   agent: true,
   app: true,
-}
+};
