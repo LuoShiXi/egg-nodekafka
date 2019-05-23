@@ -67,7 +67,7 @@ class HomeController extends Controller {
 
   async index() {
     const { app, logger, ctx } = this;
-    const producer = app.kafka.producer();
+    const producer = app.kafka.producer(); // 此句为实例化一个producer对象，若在定时任务中注意实例化多次的异常情况
     let result;
     try {
       result = await producer.sendAsync([{
