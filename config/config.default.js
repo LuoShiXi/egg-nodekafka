@@ -2,7 +2,7 @@
 
 /**
  * egg-nodekafka default config
- * @member Config#kafkaJs
+ * @member Config#kafka
  * @property {String} SOME_KEY - some description
  */
 exports.kafka = {

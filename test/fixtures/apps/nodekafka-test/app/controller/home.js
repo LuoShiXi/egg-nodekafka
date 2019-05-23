@@ -15,7 +15,10 @@ class HomeController extends Controller {
         partition: 0,
       }]);
     } catch (error) {
-      app.coreLogger.error(error);
+      logger.error(error);
+      ctx.body = { result: 'fail' };
+      ctx.status = 200;
+      return;
     }
     logger.info(result, '-------------------------');
     ctx.status = 200;
